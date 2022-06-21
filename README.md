@@ -1,4 +1,11 @@
-### Hi there 👋
+### I'm @Xxyuri2005xX
+### Intrested in Coding, Spigot Plugins & Discord Bots
+### My Current Languages: C, Java (beginner)
+### Learning: Java, JS, HTML, PHP, CSS
+### Discord: 𝓧𝔁_𝔂𝓾𝓻𝓲2005_𝔁𝓧#4337
+
+Stats:
+https://github-readme-streak-stats.herokuapp.com/?user=Xxyuri2005xX
 
 <!--
 **Xxyuri2005xX/Xxyuri2005xX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
