@@ -10,6 +10,9 @@
 ## Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xxyuri2005xX)](https://github.com/anuraghazra/github-readme-stats)
 
+# Discord Profile
+[![Discord Presence](https://lanyard.cnrad.dev/api/491667520743407619)](https://discord.com/users/491667520743407619)
+
 <!--
 **Xxyuri2005xX/Xxyuri2005xX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
