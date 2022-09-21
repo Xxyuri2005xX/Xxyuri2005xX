@@ -2,7 +2,7 @@
 ### Intrested in Coding, Spigot Plugins & Discord Bots
 ### My Current Languages: C, Java (beginner)
 ### Learning: Java, JS, HTML, PHP, CSS
-### Discord: 𝓧𝔁_𝔂𝓾𝓻𝓲2005_𝔁𝓧#4337
+### Discord: Xx_yuri2005_xX#4337
 
 ## Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xxyuri2005xX&theme=dark&background=000000)](https://git.io/streak-stats)
