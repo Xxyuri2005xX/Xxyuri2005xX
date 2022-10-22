@@ -6,7 +6,8 @@
 
 ## Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Xxyuri2005xX&count_private=true&theme=dracula&bg_color=30,595959,2e2c2c&title_color=fff&text_color=fff">
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xxyuri2005xX&theme=dark&background=000000)](https://git.io/streak-stats)-->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xxyuri2005xx&theme=dracula&bg_color=30,595959,2e2c2c&title_color=fff&text_color=ffffff)](https://git.io/streak-stats)
 
 ## Top Languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xxyuri2005xX&theme=dracula">
