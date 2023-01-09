@@ -1,7 +1,8 @@
 ### I'm @Xxyuri2005xX
 ### Intrested in Coding, Spigot Plugins & Discord Bots
-### My Current Languages: C, Java (beginner)
-### Learning: Java, JS, HTML, PHP, CSS
+### My Current Languages: C
+### Learning: Java
+### languages i want to learn: PHP, HTML, CSS, Javacript
 ### Discord: Xx_yuri2005_xX#4337
 
 ## Stats:
