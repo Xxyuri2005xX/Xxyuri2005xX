@@ -1,9 +1,9 @@
 ### I'm @Xxyuri2005xX
-### Intrested in Coding, Spigot Plugins & Discord Bots
-### My Current Languages: C
-### Learning: Java
-### languages i want to learn: PHP, HTML, CSS, Javacript
-### Discord: Xx_yuri2005_xX#4337
+##### Intrested in Coding, Spigot Plugins & Discord Bots
+##### My Current Languages: C
+##### Learning: Java, Python
+##### languages i want to learn: PHP, HTML, CSS, Javacript
+##### Discord: Xx_yuri2005_xX#4337
 
 ## Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Xxyuri2005xX&count_private=true&theme=dracula&bg_color=30,595959,2e2c2c&title_color=fff&text_color=fff">
